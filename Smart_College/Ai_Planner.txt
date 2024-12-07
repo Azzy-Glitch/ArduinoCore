@@ -1,0 +1,149 @@
+where is the parking area
+
+ANS{path to parking area}
+
+introduce me your smart parking system
+
+ANS {}
+
+whrere is the staffroom
+
+ANS {path}
+
+where is the principal office 
+
+ANS {path}
+
+where are for gent or ladies washroom 
+
+ANS {path}
+
+where is the admin office
+
+ANS {path}
+
+where are the classrooms 
+
+ANS 1st year is on first floor and second year classes is on second floor if you want more help or wanted to meet your child tell me i would call a person (name) who can guide you more in this regard
+
+
+can i meet a person to get help 
+
+ANS {related to the above one}
+
+identifying disasters happened or alerts!
+
+ANS {earthquake alert flood alert terrorist attack }
+
+i would lik to explore 1st floor  
+
+ANS {path}
+
+i would like ko explore second floor 
+
+ANS {path}
+
+what can you do 
+ANS {I can help you with various tasks such as answering your questions, providing weather updates, and more. If you have any specific needs, feel free to ask}
+
+What is your name?
+
+I am an AI assistant. You can call me anything you like.
+What can you do?
+
+I can help you with various tasks such as answering your questions, providing weather updates, and more. If you have any specific needs, feel free to ask.
+What time is it?
+
+The current time is 12:34:56 PM.
+What date is it?
+
+Today's date is Monday, 1st of January 2023.
+Help me choose a major.
+
+Here are some popular majors at our college:
+Computer Science
+Mathematics
+Biology
+Chemistry
+Physics
+Please let me know which major you are interested in for more information.
+What are the prerequisites for Calculus?
+
+The prerequisites for Calculus are:
+Algebra I
+Algebra II
+Geometry
+Trigonometry
+Pre-Calculus
+What are the tuition fees for the college?
+
+The tuition fees for the college are $10,000 per year.
+What are the application deadlines for the college?
+
+The application deadlines for the college are:
+Early Action: November 1st
+Early Decision: December 1st
+Regular Decision: January 1st
+How can I apply for financial aid?
+
+To apply for financial aid, you can follow these steps:
+Complete the Free Application for Federal Student Aid (FAFSA)
+Complete the college's financial aid application
+Submit the required documents
+Complete the interview process (if applicable)
+What are the contact details for the college's admissions office?
+
+The contact details for the college's admissions office are:
+Email: admissions@college.edu
+Phone: (123) 456-7890
+What are the college's academic resources?
+
+The college offers various academic resources such as:
+Library
+Writing Center
+Math Lab
+Science Lab
+Computer Lab
+What are the college's extracurricular activities?
+
+The college offers a variety of extracurricular activities such as:
+Clubs and Organizations
+Sports Teams
+Performing Arts
+Volunteer Opportunities
+Study Abroad Programs
+What are the college's dormitories like?
+
+The college's dormitories are modern and spacious. They offer:
+Single and double rooms
+Shared bathrooms
+Lounge areas
+Laundry facilities
+Wireless internet access
+What are the college's academic programs?
+
+The college offers various academic programs such as:
+Bachelor of Science in Computer Science
+Bachelor of Science in Mathematics
+Bachelor of Science in Biology
+Bachelor of Science in Chemistry
+Bachelor of Science in Physics
+What are the college's academic departments?
+
+The college has the following academic departments:
+Department of Computer Science
+Department of Mathematics
+Department of Biology
+Department of Chemistry
+Department of Physics
+What are the college's academic requirements?
+
+The college's academic requirements include:
+High school diploma or equivalent
+ACT or SAT scores
+Letters
+
+
+
+
+
