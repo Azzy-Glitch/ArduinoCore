@@ -9,7 +9,7 @@ import csv
 from datetime import datetime
 import win32com.client
 
-folder_path = "C:/Users/830/OneDrive/Desktop/FaceAttendance/data/"
+folder_path = ""
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
 
 speaker = win32com.client.Dispatch("SAPI.SpVoice")
