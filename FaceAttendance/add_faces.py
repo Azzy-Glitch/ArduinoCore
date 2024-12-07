@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 from tkinter import messagebox
 import customtkinter as ctk
 
-folder_path = "C:/Users/830/OneDrive/Desktop/FaceAttendance/data/"
+folder_path = "Copy the path of the file here"
 
 class App(ctk.CTk):
     def __init__(self, title, size):
