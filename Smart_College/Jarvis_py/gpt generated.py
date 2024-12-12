@@ -273,7 +273,7 @@ if __name__ == "__main__":
 # Set the API key as an environment variable
 def generate_response():
     # Set the API key as an environment variable
-    os.environ["GOOGLE_API_KEY"] = "AIzaSyCzzvFVOtHqgTWpWJHywUFpVJW7zKZWsFs"  # Replace with your actual API key
+    os.environ["GOOGLE_API_KEY"] = ""  # Replace with your actual API key
 
     genai.configure(api_key=os.environ["GOOGLE_API_KEY"])  # Access the key from environment variables
 
